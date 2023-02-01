@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-katex
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+kramdown:
+  math_engine: katex
+
+usemathjax: true
