@@ -1,9 +1,17 @@
 ---
 layout: post
 title: KaTeX with Jekyll
-katex: True
+usemathjax: true
 ---
 
+
 $$
-e = mc^2
+c = \pm\sqrt{a^2 + b^2}
 $$
+
+
+abc
+$$
+123
+$$
+def
