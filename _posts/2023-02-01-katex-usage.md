@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KaTeX with Jekyll
+title: KaTeX and Other Markdown Examples
 katex: true
 ---
 
@@ -9,14 +9,14 @@ display mode (centered):
 
 $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
 
-
+for quote format
 > 12345
 
 # Headging 1
 ## Heading 2
 ### Heading 3
 
-this is a heading
+this is also a heading
 =========
 
 **bold**
@@ -37,6 +37,7 @@ another example for `code block` by indent
         import pandas as pd
         # comment        
         this = that -1 * 5
+
 
 1. this
 2. is
