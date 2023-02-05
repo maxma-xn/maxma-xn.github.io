@@ -2,6 +2,10 @@
 layout: post
 title: KaTeX and Other Markdown Examples
 katex: true
+categories: ['demo']
+tags: 'Demo'
+intro: "This is an sample intro for a post"
+published: false
 ---
 
 inline: $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
